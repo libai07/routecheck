@@ -1,0 +1,5 @@
+# Build artifacts
+/routecheck
+/routecheck-wsl
+/test-bin
+*.exe
